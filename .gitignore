@@ -29,8 +29,6 @@ cabal.project.freeze
 .HTF/
 docs.sh
 # Stack
-stack.yaml.lock
-stack.yaml
 .stack-work/
 
 ### IDE/support
